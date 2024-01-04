@@ -1,0 +1,16 @@
+Kiến thức đã học 
+- Java core
+- 4 tính chất OOP
+- Spring boot
+- MySql
+- Spring MVC
+- Github, Docker,...
+- HTML, CSS, Javascript,Jquery
+- Angular.js
+- Thymeleaf
+Kiến thức đã làm
+- Đã làm một dự án Java-swing : tính tiền hóa đơn phòng, hóa đơn điện nước, tạo hợp đồng và một số tính năng khác 
+- Đã làm qua các kiến thức  Java spring boot, Java security
+- Đang làm dự án web bán hàng có tích hợp  các chức năng  như thanh toán bằng paypal, vận chuyển,...
+
+
